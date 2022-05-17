@@ -18,4 +18,4 @@ PPlease see app.py for analysis of part 2
 See temp_analysis_bonus_1_starter (1).ipynb for details. Finaly analysis is contained therein. 
 
 # Temperature Analysis 2
-see temp_analysis_bonus_2_starter (1).ipynb for details.
+See temp_analysis_bonus_2_starter (1).ipynb for details.
